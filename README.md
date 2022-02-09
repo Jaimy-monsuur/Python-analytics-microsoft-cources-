@@ -1,2 +1,2 @@
 # Python analytics(microsoft cources)
-  - inks are in the python files
+  - links are in the python files
