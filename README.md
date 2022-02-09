@@ -1,2 +1,2 @@
-Python analytics(microsoft cources)
-links are in the pythpn files
+# Python analytics(microsoft cources)
+  - inks are in the python files
